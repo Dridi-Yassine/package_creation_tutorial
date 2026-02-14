@@ -1,5 +1,5 @@
 [project]
-name = "package-creation-tutorial"
+name = "tuto-package"
 version = "0.1.0"
 description = "Tutorial for building a Python package with Poetry"
 authors = [
