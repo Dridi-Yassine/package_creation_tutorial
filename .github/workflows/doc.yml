@@ -1,4 +1,4 @@
-name: package-creation-tuto
+name: tuto-package
 
 on:
   release:
