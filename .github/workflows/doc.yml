@@ -1,4 +1,4 @@
-name: tuto-package
+name: Publish Python Package
 
 on:
   release:
